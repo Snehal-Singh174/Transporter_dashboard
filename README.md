@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-[![forthebadge made-with-python](https://forthebadge.com/images/badges/built-for-android.svg)](https://www.python.org/)
+[![forthebadge made-with-python](https://forthebadge.com/images/badges/built-for-flutter.svg)](https://www.python.org/)
